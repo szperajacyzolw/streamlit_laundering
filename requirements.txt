@@ -1,0 +1,13 @@
+streamlit
+matplotlib
+numpy
+pandas
+scikit-learn
+beautifulsoup4
+joblib
+nltk
+enchant
+requests
+os
+Boruta
+re
