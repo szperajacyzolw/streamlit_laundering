@@ -6,7 +6,7 @@ scikit-learn
 beautifulsoup4
 joblib
 nltk
-enchant
+pyenchant
 requests
 os
 Boruta
