@@ -7,7 +7,4 @@ beautifulsoup4
 joblib
 nltk
 pyenchant
-requests
-os
 Boruta
-re
